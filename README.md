@@ -18,3 +18,7 @@
 | [2.两数相加](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/2.add_two_numbers.rs)                            | 中等 | 链表     |
 | [3. 无重复字符的最长子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/3.length_of_longest_substring.rs)   | 中等 | 哈希表   |
 | [4. 寻找两个正序数组的中位数](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/4.find_median_sorted_arrays.rs) | 困难 | 二分查找 |
+| [5. 最长回文子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/5.longest_palindrome.rs) | 中等 | 动态规划 |
+| [10. 正则表达式匹配](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/6.is_match.rs) | 困难 | 动态规划 |
+| [11. 盛最多水的容器](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/7.max_area.rs) | 中等 | 双指针 |
+| [15. 三数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/8.three_sum.rs) | 中等 | 双指针 |
