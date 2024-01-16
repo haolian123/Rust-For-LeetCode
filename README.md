@@ -22,3 +22,7 @@
 | [10. 正则表达式匹配](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/6.is_match.rs) | 困难 | 动态规划 |
 | [11. 盛最多水的容器](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/7.max_area.rs) | 中等 | 双指针 |
 | [15. 三数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/8.three_sum.rs) | 中等 | 双指针 |
+| [17. 电话号码的字母组合](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/9.letter_combinations.rs) | 中等 | 回溯法 |
+| [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 | 快慢指针 |
+| [20. 有效的括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/11.is_valid.rs) | 简单 | 栈 |
+
