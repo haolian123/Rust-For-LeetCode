@@ -25,4 +25,7 @@
 | [17. 电话号码的字母组合](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/9.letter_combinations.rs) | 中等 | 回溯法 |
 | [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 | 快慢指针 |
 | [20. 有效的括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/11.is_valid.rs) | 简单 | 栈 |
+| [21. 合并两个有序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/12.merge_two_lists.rs) | 简单 | 链表 |
+| [22. 括号生成](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/13.generate_parenthesis.rs) | 中等 | 递归 |
+| [23. 合并 K 个升序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/14.merge_k_lists.rs) | 困难 | 最小堆、链表 |
 
