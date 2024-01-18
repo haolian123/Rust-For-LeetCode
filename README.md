@@ -12,20 +12,22 @@
 
 [🔥 LeetCode 热题 HOT 100 - 力扣（LeetCode）](https://leetcode.cn/problem-list/2cktkvj/)
 
-| 题解                                                                                                                           | 难度 | Tips     |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---- | -------- |
-| [1.两数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/1.two_sum.rs)                                    | 简单 | 哈希表   |
-| [2.两数相加](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/2.add_two_numbers.rs)                            | 中等 | 链表     |
-| [3. 无重复字符的最长子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/3.length_of_longest_substring.rs)   | 中等 | 哈希表   |
-| [4. 寻找两个正序数组的中位数](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/4.find_median_sorted_arrays.rs) | 困难 | 二分查找 |
-| [5. 最长回文子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/5.longest_palindrome.rs) | 中等 | 动态规划 |
-| [10. 正则表达式匹配](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/6.is_match.rs) | 困难 | 动态规划 |
-| [11. 盛最多水的容器](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/7.max_area.rs) | 中等 | 双指针 |
-| [15. 三数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/8.three_sum.rs) | 中等 | 双指针 |
-| [17. 电话号码的字母组合](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/9.letter_combinations.rs) | 中等 | 回溯法 |
-| [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 | 快慢指针 |
-| [20. 有效的括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/11.is_valid.rs) | 简单 | 栈 |
-| [21. 合并两个有序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/12.merge_two_lists.rs) | 简单 | 链表 |
-| [22. 括号生成](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/13.generate_parenthesis.rs) | 中等 | 递归 |
+| 题解                                                         | 难度 |     Tips     |
+| :----------------------------------------------------------- | ---- | :----------: |
+| [1.两数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/1.two_sum.rs) | 简单 |    哈希表    |
+| [2.两数相加](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/2.add_two_numbers.rs) | 中等 |     链表     |
+| [3. 无重复字符的最长子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/3.length_of_longest_substring.rs) | 中等 |    哈希表    |
+| [4. 寻找两个正序数组的中位数](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/4.find_median_sorted_arrays.rs) | 困难 |    二分法    |
+| [5. 最长回文子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/5.longest_palindrome.rs) | 中等 |   动态规划   |
+| [10. 正则表达式匹配](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/6.is_match.rs) | 困难 |   动态规划   |
+| [11. 盛最多水的容器](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/7.max_area.rs) | 中等 |    双指针    |
+| [15. 三数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/8.three_sum.rs) | 中等 |    双指针    |
+| [17. 电话号码的字母组合](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/9.letter_combinations.rs) | 中等 |    回溯法    |
+| [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 |   快慢指针   |
+| [20. 有效的括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/11.is_valid.rs) | 简单 |      栈      |
+| [21. 合并两个有序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/12.merge_two_lists.rs) | 简单 |     链表     |
+| [22. 括号生成](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/13.generate_parenthesis.rs) | 中等 |     递归     |
 | [23. 合并 K 个升序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/14.merge_k_lists.rs) | 困难 | 最小堆、链表 |
-
+| [31. 下一个排列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/15.next_permutation.rs) | 中等 |    双指针    |
+| [32. 最长有效括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/16.longest_valid_parentheses.rs) | 困难 |   动态规划   |
+| [33. 搜索旋转排序数组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/17.search.rs) | 中等 |    二分法    |
