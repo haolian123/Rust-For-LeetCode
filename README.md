@@ -31,3 +31,6 @@
 | [31. 下一个排列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/15.next_permutation.rs) | 中等 |    双指针    |
 | [32. 最长有效括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/16.longest_valid_parentheses.rs) | 困难 |   动态规划   |
 | [33. 搜索旋转排序数组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/17.search.rs) | 中等 |    二分法    |
+| [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/18.search_range.rs) | 中等 |    二分法    |
+| [39. 组合总和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/19.combination_sum.rs) | 中等 |    回溯法    |
+| [42. 接雨水](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/20.trap.rs) | 困难 |    双指针    |
