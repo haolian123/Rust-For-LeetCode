@@ -34,3 +34,6 @@
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/18.search_range.rs) | 中等 |    二分法    |
 | [39. 组合总和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/19.combination_sum.rs) | 中等 |    回溯法    |
 | [42. 接雨水](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/20.trap.rs) | 困难 |    双指针    |
+| [46. 全排列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/21.permute.rs) | 中等 |    回溯法    |
+| [48.旋转图像](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/22.rotate.rs) | 中等 |   二维数组   |
+| [49. 字母异位词分组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/23.group_anagrams.rs) | 中等 |    哈希表    |
