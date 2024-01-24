@@ -37,3 +37,6 @@
 | [46. 全排列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/21.permute.rs) | 中等 |    回溯法    |
 | [48.旋转图像](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/22.rotate.rs) | 中等 |   二维数组   |
 | [49. 字母异位词分组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/23.group_anagrams.rs) | 中等 |    哈希表    |
+| [53. 最大子数组和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/24.max_sub_array.rs) | 中等 |    分治法    |
+| [55. 跳跃游戏](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/25.can_jump.rs) | 中等 |     贪心     |
+| [56. 合并区间](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/26.merge.rs) | 中等 |     排序     |
