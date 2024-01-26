@@ -40,3 +40,10 @@
 | [53. 最大子数组和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/24.max_sub_array.rs) | 中等 |    分治法    |
 | [55. 跳跃游戏](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/25.can_jump.rs) | 中等 |     贪心     |
 | [56. 合并区间](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/26.merge.rs) | 中等 |     排序     |
+| [62. 不同路径](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/27.unique_paths.rs) | 中等 |   动态规划   |
+| [64. 最小路径和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/28.min_path_sum.rs) | 中等 |   动态规划   |
+| [70. 爬楼梯](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/29.climb_stairs.rs) | 简单 |   动态规划   |
+| [72. 编辑距离](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/30.min_distance.rs) | 中等 |   动态规划   |
+| [75. 颜色分类](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/31.sort_colors.rs) | 中等 |    双指针    |
+| [76. 最小覆盖子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/32.min_window.rs) | 困难 |   滑动窗口   |
+
