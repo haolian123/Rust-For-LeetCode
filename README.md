@@ -23,7 +23,7 @@
 | [11. 盛最多水的容器](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/7.max_area.rs) | 中等 |    双指针    |
 | [15. 三数之和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/8.three_sum.rs) | 中等 |    双指针    |
 | [17. 电话号码的字母组合](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/9.letter_combinations.rs) | 中等 |    回溯法    |
-| [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 |   快慢指针   |
+| [19. 删除链表的倒数第 N 个结点](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/10.remove_nth_from_end.rs) | 中等 |     链表     |
 | [20. 有效的括号](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/11.is_valid.rs) | 简单 |      栈      |
 | [21. 合并两个有序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/12.merge_two_lists.rs) | 简单 |     链表     |
 | [22. 括号生成](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/13.generate_parenthesis.rs) | 中等 |     递归     |
@@ -46,4 +46,7 @@
 | [72. 编辑距离](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/30.min_distance.rs) | 中等 |   动态规划   |
 | [75. 颜色分类](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/31.sort_colors.rs) | 中等 |    双指针    |
 | [76. 最小覆盖子串](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/32.min_window.rs) | 困难 |   滑动窗口   |
+| [78. 子集](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/33.subsets.rs) | 中等 |    回溯法    |
+| [79. 单词搜索](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/34.exist.rs) | 中等 |    回溯法    |
+| [84. 柱状图中最大的矩形](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/35.largest_rectangle_area.rs) | 困难 |    单调栈    |
 
