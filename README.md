@@ -49,4 +49,7 @@
 | [78. 子集](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/33.subsets.rs) | 中等 |    回溯法    |
 | [79. 单词搜索](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/34.exist.rs) | 中等 |    回溯法    |
 | [84. 柱状图中最大的矩形](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/35.largest_rectangle_area.rs) | 困难 |    单调栈    |
+| [85. 最大矩形](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/36.maximal_rectangle.rs) | 困难 |    单调栈    |
+| [94. 二叉树的中序遍历](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/37.inorder_traversal.rs) | 简单 |      栈      |
+| [96. 不同的二叉搜索树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/38.num_trees.rs) | 中等 |   动态规划   |
 
