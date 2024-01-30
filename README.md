@@ -55,4 +55,7 @@
 | [98. 验证二叉搜索树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/39.is_valid_bst.rs) | 中等 |      二叉树      |
 | [101. 对称二叉树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/40.is_symmetric.rs) | 简单 |      二叉树      |
 | [102. 二叉树的层序遍历](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/41.level_order.rs) | 中等 |   二叉树、BFS    |
+| [104. 二叉树的最大深度](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/42.max_depth.rs) | 简单 |      二叉树      |
+| [105. 从前序与中序遍历序列构造二叉树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/43.build_tree.rs) | 中等 |      二叉树      |
+| [114. 二叉树展开为链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/44.flatten.rs) | 中等 |      二叉树      |
 
