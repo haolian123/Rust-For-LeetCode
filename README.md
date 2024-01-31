@@ -58,4 +58,7 @@
 | [104. 二叉树的最大深度](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/42.max_depth.rs) | 简单 |      二叉树      |
 | [105. 从前序与中序遍历序列构造二叉树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/43.build_tree.rs) | 中等 |      二叉树      |
 | [114. 二叉树展开为链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/44.flatten.rs) | 中等 |      二叉树      |
+| [121. 买卖股票的最佳时机](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/45.max_profit.rs) | 简单 |     动态规划     |
+| [124. 二叉树中的最大路径和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/46.max_path_sum.rs) | 困难 |      二叉树      |
+| [128. 最长连续序列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/47.longest_consecutive.rs) | 中等 |      哈希表      |
 
