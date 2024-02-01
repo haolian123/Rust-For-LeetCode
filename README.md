@@ -61,4 +61,7 @@
 | [121. 买卖股票的最佳时机](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/45.max_profit.rs) | 简单 |     动态规划     |
 | [124. 二叉树中的最大路径和](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/46.max_path_sum.rs) | 困难 |      二叉树      |
 | [128. 最长连续序列](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/47.longest_consecutive.rs) | 中等 |      哈希表      |
+| [136. 只出现一次的数字](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/48.single_number.rs) | 简单 |      位运算      |
+| [139. 单词拆分](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/49.word_break.rs) | 中等 |     动态规划     |
+| [141. 环形链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/50.has_cycle.rs) | 简单 |       链表       |
 
