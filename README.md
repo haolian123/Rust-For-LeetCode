@@ -64,4 +64,7 @@
 | [136. 只出现一次的数字](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/48.single_number.rs) | 简单 |      位运算      |
 | [139. 单词拆分](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/49.word_break.rs) | 中等 |     动态规划     |
 | [141. 环形链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/50.has_cycle.rs) | 简单 |       链表       |
+| [142. 环形链表 II](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/51.detect_cycle.rs) | 中等 |       链表       |
+| [146. LRU 缓存](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/52.LRU.rs) | 中等 |   链表、哈希表   |
+| [148. 排序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/53.sort_list.rs) | 中等 |   链表、分治法   |
 
