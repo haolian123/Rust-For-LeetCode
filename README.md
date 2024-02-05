@@ -67,4 +67,7 @@
 | [142. 环形链表 II](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/51.detect_cycle.rs) | 中等 |       链表       |
 | [146. LRU 缓存](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/52.LRU.rs) | 中等 |   链表、哈希表   |
 | [148. 排序链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/53.sort_list.rs) | 中等 |   链表、分治法   |
+| [152. 乘积最大子数组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/54.max_product.rs) | 中等 |     动态规划     |
+| [155. 最小栈](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/55.minStack.rs) | 中等 |        栈        |
+| [160. 相交链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/56.get_intersection_node.rs) | 简单 |       链表       |
 
