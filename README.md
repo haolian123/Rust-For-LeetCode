@@ -70,4 +70,7 @@
 | [152. 乘积最大子数组](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/54.max_product.rs) | 中等 |     动态规划     |
 | [155. 最小栈](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/55.minStack.rs) | 中等 |        栈        |
 | [160. 相交链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/56.get_intersection_node.rs) | 简单 |       链表       |
+| [169. 多数元素](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/57.majority_element.rs) | 简单 |      投票法      |
+| [198. 打家劫舍](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/58.rob.rs) | 中等 |     动态规划     |
+| [200. 岛屿数量](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/59.num_islands.rs) | 中等 |     DFS、BFS     |
 
