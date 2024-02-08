@@ -73,4 +73,7 @@
 | [169. 多数元素](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/57.majority_element.rs) | 简单 |      投票法      |
 | [198. 打家劫舍](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/58.rob.rs) | 中等 |     动态规划     |
 | [200. 岛屿数量](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/59.num_islands.rs) | 中等 |     DFS、BFS     |
+| [206. 反转链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/60.reverse_list.rs) | 简单 |       链表       |
+| [207. 课程表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/61.can_finish.rs) | 中等 |     拓扑排序     |
+| [208. 实现 Trie (前缀树)](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/62.Trie.rs) | 中等 |      前缀树      |
 
