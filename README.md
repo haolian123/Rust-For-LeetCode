@@ -76,4 +76,11 @@
 | [206. 反转链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/60.reverse_list.rs) | 简单 |       链表       |
 | [207. 课程表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/61.can_finish.rs) | 中等 |     拓扑排序     |
 | [208. 实现 Trie (前缀树)](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/62.Trie.rs) | 中等 |      前缀树      |
+| [215. 数组中的第K个最大元素](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/63.find_kth_largest.rs) | 中等 |       排序       |
+| [221. 最大正方形](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/64.maximalSquare.rs) | 中等 |     动态规划     |
+| [226. 翻转二叉树](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/65.invertTree.rs) | 简单 |      二叉树      |
+| [234. 回文链表](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/66.isPalindrome.rs) | 简单 |       链表       |
+| [236. 二叉树的最近公共祖先](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/67.lowest_common_ancestor.rs) | 中等 |      二叉树      |
+| [238. 除自身以外数组的乘积](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/68.product_except_self.rs) | 中等 |     动态规划     |
+| [239. 滑动窗口最大值](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/69.max_sliding_window.rs) | 困难 |     滑动窗口     |
 
