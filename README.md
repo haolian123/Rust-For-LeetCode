@@ -83,4 +83,7 @@
 | [236. 二叉树的最近公共祖先](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/67.lowest_common_ancestor.rs) | 中等 |      二叉树      |
 | [238. 除自身以外数组的乘积](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/68.product_except_self.rs) | 中等 |     动态规划     |
 | [239. 滑动窗口最大值](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/69.max_sliding_window.rs) | 困难 |     滑动窗口     |
+| [240. 搜索二维矩阵 II](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/70.search_matrix.rs) | 中等 |      二分法      |
+| [279. 完全平方数](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/71.num_squares.rs) | 中等 |     动态规划     |
+| [283. 移动零](https://github.com/haolian123/Rust-For-LeetCode/blob/main/Hot%20100/72.move_zeroes.rs) | 简单 |       数组       |
 
